@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <!---->
+  <!-- 测试 -->
   <build>
 		<!-- 项目打包后的包名，如果有则按设置的名称作为包名;没有文件扩展名则默认值${artifactId}-${version}两个值拼接的结果 -->
 		<finalName>logback</finalName>
